@@ -1,0 +1,17 @@
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/bin/Debug/netcoreapp2.1/test.deps.json
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.json
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.dev.json
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/bin/Debug/netcoreapp2.1/test.dll
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/bin/Debug/netcoreapp2.1/test.pdb
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/bin/Debug/netcoreapp2.1/Person.dll
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/bin/Debug/netcoreapp2.1/Person.pdb
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/obj/Debug/netcoreapp2.1/test.csprojAssemblyReference.cache
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/obj/Debug/netcoreapp2.1/test.csproj.CoreCompileInputs.cache
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/obj/Debug/netcoreapp2.1/test.AssemblyInfoInputs.cache
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/obj/Debug/netcoreapp2.1/test.AssemblyInfo.cs
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/obj/Debug/netcoreapp2.1/test.csproj.CopyComplete
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/obj/Debug/netcoreapp2.1/test.dll
+/Users/adriantesore/Documents/GitHub/Validacion_CI/test/obj/Debug/netcoreapp2.1/test.pdb

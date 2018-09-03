@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace Person
 {
-    class Persona
+    public class Persona
     {
         public Persona(string nombre, string id)
         {

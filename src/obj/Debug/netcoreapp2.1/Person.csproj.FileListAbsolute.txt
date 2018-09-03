@@ -31,3 +31,14 @@ C:/Users/estudiante.fit/Documents/Prog 2/Person/obj/Debug/netcoreapp2.1/Person.p
 /Users/adriantesore/Documents/GitHub/Validacion_CI/obj/Debug/netcoreapp2.1/Person.AssemblyInfo.cs
 /Users/adriantesore/Documents/GitHub/Validacion_CI/obj/Debug/netcoreapp2.1/Person.dll
 /Users/adriantesore/Documents/GitHub/Validacion_CI/obj/Debug/netcoreapp2.1/Person.pdb
+/Users/adriantesore/Documents/GitHub/Validacion_CI/src/bin/Debug/netcoreapp2.1/Person.deps.json
+/Users/adriantesore/Documents/GitHub/Validacion_CI/src/bin/Debug/netcoreapp2.1/Person.runtimeconfig.json
+/Users/adriantesore/Documents/GitHub/Validacion_CI/src/bin/Debug/netcoreapp2.1/Person.runtimeconfig.dev.json
+/Users/adriantesore/Documents/GitHub/Validacion_CI/src/bin/Debug/netcoreapp2.1/Person.dll
+/Users/adriantesore/Documents/GitHub/Validacion_CI/src/bin/Debug/netcoreapp2.1/Person.pdb
+/Users/adriantesore/Documents/GitHub/Validacion_CI/src/obj/Debug/netcoreapp2.1/Person.csprojAssemblyReference.cache
+/Users/adriantesore/Documents/GitHub/Validacion_CI/src/obj/Debug/netcoreapp2.1/Person.csproj.CoreCompileInputs.cache
+/Users/adriantesore/Documents/GitHub/Validacion_CI/src/obj/Debug/netcoreapp2.1/Person.AssemblyInfoInputs.cache
+/Users/adriantesore/Documents/GitHub/Validacion_CI/src/obj/Debug/netcoreapp2.1/Person.AssemblyInfo.cs
+/Users/adriantesore/Documents/GitHub/Validacion_CI/src/obj/Debug/netcoreapp2.1/Person.dll
+/Users/adriantesore/Documents/GitHub/Validacion_CI/src/obj/Debug/netcoreapp2.1/Person.pdb
