@@ -1,0 +1,33 @@
+C:/Users/estudiante.fit/Documents/Prog 2/Person/obj/Debug/netcoreapp2.1/Person.csprojAssemblyReference.cache
+C:/Users/estudiante.fit/Documents/Prog 2/Person/obj/Debug/netcoreapp2.1/Person.csproj.CoreCompileInputs.cache
+C:/Users/estudiante.fit/Documents/Prog 2/Person/obj/Debug/netcoreapp2.1/Person.AssemblyInfoInputs.cache
+C:/Users/estudiante.fit/Documents/Prog 2/Person/obj/Debug/netcoreapp2.1/Person.AssemblyInfo.cs
+C:/Users/estudiante.fit/Documents/Prog 2/Person/bin/Debug/netcoreapp2.1/Person.deps.json
+C:/Users/estudiante.fit/Documents/Prog 2/Person/bin/Debug/netcoreapp2.1/Person.runtimeconfig.json
+C:/Users/estudiante.fit/Documents/Prog 2/Person/bin/Debug/netcoreapp2.1/Person.runtimeconfig.dev.json
+C:/Users/estudiante.fit/Documents/Prog 2/Person/bin/Debug/netcoreapp2.1/Person.dll
+C:/Users/estudiante.fit/Documents/Prog 2/Person/bin/Debug/netcoreapp2.1/Person.pdb
+C:/Users/estudiante.fit/Documents/Prog 2/Person/obj/Debug/netcoreapp2.1/Person.dll
+C:/Users/estudiante.fit/Documents/Prog 2/Person/obj/Debug/netcoreapp2.1/Person.pdb
+/Users/adriantesore/Desktop/Programacion II/Prog 2/Person/bin/Debug/netcoreapp2.1/Person.deps.json
+/Users/adriantesore/Desktop/Programacion II/Prog 2/Person/bin/Debug/netcoreapp2.1/Person.runtimeconfig.json
+/Users/adriantesore/Desktop/Programacion II/Prog 2/Person/bin/Debug/netcoreapp2.1/Person.runtimeconfig.dev.json
+/Users/adriantesore/Desktop/Programacion II/Prog 2/Person/bin/Debug/netcoreapp2.1/Person.dll
+/Users/adriantesore/Desktop/Programacion II/Prog 2/Person/bin/Debug/netcoreapp2.1/Person.pdb
+/Users/adriantesore/Desktop/Programacion II/Prog 2/Person/obj/Debug/netcoreapp2.1/Person.csprojAssemblyReference.cache
+/Users/adriantesore/Desktop/Programacion II/Prog 2/Person/obj/Debug/netcoreapp2.1/Person.csproj.CoreCompileInputs.cache
+/Users/adriantesore/Desktop/Programacion II/Prog 2/Person/obj/Debug/netcoreapp2.1/Person.AssemblyInfoInputs.cache
+/Users/adriantesore/Desktop/Programacion II/Prog 2/Person/obj/Debug/netcoreapp2.1/Person.AssemblyInfo.cs
+/Users/adriantesore/Desktop/Programacion II/Prog 2/Person/obj/Debug/netcoreapp2.1/Person.dll
+/Users/adriantesore/Desktop/Programacion II/Prog 2/Person/obj/Debug/netcoreapp2.1/Person.pdb
+/Users/adriantesore/Documents/GitHub/Validacion_CI/bin/Debug/netcoreapp2.1/Person.deps.json
+/Users/adriantesore/Documents/GitHub/Validacion_CI/bin/Debug/netcoreapp2.1/Person.runtimeconfig.json
+/Users/adriantesore/Documents/GitHub/Validacion_CI/bin/Debug/netcoreapp2.1/Person.runtimeconfig.dev.json
+/Users/adriantesore/Documents/GitHub/Validacion_CI/bin/Debug/netcoreapp2.1/Person.dll
+/Users/adriantesore/Documents/GitHub/Validacion_CI/bin/Debug/netcoreapp2.1/Person.pdb
+/Users/adriantesore/Documents/GitHub/Validacion_CI/obj/Debug/netcoreapp2.1/Person.csprojAssemblyReference.cache
+/Users/adriantesore/Documents/GitHub/Validacion_CI/obj/Debug/netcoreapp2.1/Person.csproj.CoreCompileInputs.cache
+/Users/adriantesore/Documents/GitHub/Validacion_CI/obj/Debug/netcoreapp2.1/Person.AssemblyInfoInputs.cache
+/Users/adriantesore/Documents/GitHub/Validacion_CI/obj/Debug/netcoreapp2.1/Person.AssemblyInfo.cs
+/Users/adriantesore/Documents/GitHub/Validacion_CI/obj/Debug/netcoreapp2.1/Person.dll
+/Users/adriantesore/Documents/GitHub/Validacion_CI/obj/Debug/netcoreapp2.1/Person.pdb
