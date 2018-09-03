@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adriantesore/Documents/GitHub/Validacion_CI/Person.csproj",
+      "projectUniqueName": "/Users/adriantesore/Documents/GitHub/Validacion_CI/src/Person.csproj",
       "projectName": "Person",
-      "projectPath": "/Users/adriantesore/Documents/GitHub/Validacion_CI/Person.csproj",
+      "projectPath": "/Users/adriantesore/Documents/GitHub/Validacion_CI/src/Person.csproj",
       "packagesPath": "/Users/adriantesore/.nuget/packages/",
-      "outputPath": "/Users/adriantesore/Documents/GitHub/Validacion_CI/obj/",
+      "outputPath": "/Users/adriantesore/Documents/GitHub/Validacion_CI/src/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
